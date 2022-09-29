@@ -16,6 +16,5 @@ Ref:
 https://otaru.tw/archive/tutorial/using-vuforia-with-unity3d-making-ar-app-tutorial
 
 2. Unity Text Mesh Pro Guide:
-https://www.cg.com.tw/UnityTextMeshPro/
-
+https://cindyalex.pixnet.net/blog/post/238930883-unity-textmeshpro-%E4%B8%AD%E6%96%87%E5%AD%97%E9%AB%94
 
