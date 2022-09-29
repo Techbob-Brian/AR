@@ -11,4 +11,11 @@ VRoid Files - Virtual Character Creation and import to Unity
               
              
 Ref:
+
+1. Different Application Guide:
 https://otaru.tw/archive/tutorial/using-vuforia-with-unity3d-making-ar-app-tutorial
+
+2. Unity Text Mesh Pro Guide:
+https://www.cg.com.tw/UnityTextMeshPro/
+
+
