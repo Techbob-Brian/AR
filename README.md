@@ -37,7 +37,7 @@ VR
 https://www.youtube.com/watch?v=7ubckVGybE4
 
 MR
-https://www.youtube.com/watch?v=P_I873tL3jw
+[https://www.youtube.com/watch?v=P_I873tL3jw](https://youtu.be/Ddk9ci6geSs?t=34)
 
 SR
 https://www.tttechrec.com/blogs/2020/9/15/just-like-the-simulations-substitution-reality
