@@ -42,4 +42,5 @@ https://www.youtube.com/watch?v=P_I873tL3jw
 SR
 https://www.tttechrec.com/blogs/2020/9/15/just-like-the-simulations-substitution-reality
 
-Mario Kart
+Mario Kart (up to 1:44)
+https://www.youtube.com/watch?v=eHuVJSSeJWk&list=PLz4XOfq-Xs2ci1j8m7r7UgIm9VuNdKu4o&index=141&ab_channel=%E7%8F%BE%E5%9C%A8%E5%AE%85%E7%9F%A5%E9%81%93
