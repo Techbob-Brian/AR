@@ -29,7 +29,9 @@ https://zh.m.wikipedia.org/zh-hk/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F
 https://home.gamer.com.tw/creationDetail.php?sn=1564900
 
 延申思考：
-Free Guy: https://www.youtube.com/watch?v=JORN2hkXLyM
+
+Free Guy: 
+https://www.youtube.com/watch?v=JORN2hkXLyM
 
 Ready Player One: 
 https://www.youtube.com/watch?v=jjO9DF57_vE
