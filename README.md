@@ -27,17 +27,19 @@ https://zh.m.wikipedia.org/zh-hk/%E5%88%80%E5%8A%8D%E7%A5%9E%E5%9F%9F
 
 加速世界 - 介紹：
 https://home.gamer.com.tw/creationDetail.php?sn=1564900
-延申：
-https://www.youtube.com/watch?v=JORN2hkXLyM
+延申思考：
+Free Guy: https://www.youtube.com/watch?v=JORN2hkXLyM
+Ready Player One: 
 
-AR Explaination:
+AR
 https://www.youtube.com/watch?v=D-A1l4Jn6EY
 
-VR 
-https://www.youtube.com/watch?v=7ubckVGybE4
+VR
+Experience: https://www.youtube.com/watch?v=5Qd3EbKYrIw
+VR Fail: https://www.youtube.com/watch?v=7ubckVGybE4
 
 MR
-[https://www.youtube.com/watch?v=P_I873tL3jw](https://youtu.be/Ddk9ci6geSs?t=34)
+https://www.youtube.com/watch?v=ryceakFbNXU
 
 SR
 https://www.tttechrec.com/blogs/2020/9/15/just-like-the-simulations-substitution-reality
