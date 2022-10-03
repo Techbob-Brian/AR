@@ -18,7 +18,7 @@ https://otaru.tw/archive/tutorial/using-vuforia-with-unity3d-making-ar-app-tutor
 2. Unity Text Mesh Pro Show Chinese Guide:
 https://cindyalex.pixnet.net/blog/post/238930883-unity-textmeshpro-%E4%B8%AD%E6%96%87%E5%AD%97%E9%AB%94
 
-=========================================================================================================================================================================
+=======================================================================================================================================================================
 
 AR lesson 1：
 
@@ -46,6 +46,10 @@ https://www.youtube.com/watch?v=ryceakFbNXU
 
 SR
 https://www.tttechrec.com/blogs/2020/9/15/just-like-the-simulations-substitution-reality
+
+Before HoloLens - Magic Leap
+https://www.youtube.com/watch?v=FGNlYukcsEY
+
 
 Mario Kart (up to 1:44)
 https://www.youtube.com/watch?v=eHuVJSSeJWk&list=PLz4XOfq-Xs2ci1j8m7r7UgIm9VuNdKu4o&index=141&ab_channel=%E7%8F%BE%E5%9C%A8%E5%AE%85%E7%9F%A5%E9%81%93
