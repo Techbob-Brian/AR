@@ -14,10 +14,6 @@ Ref:
 
 1. Different Application Guide:
 https://otaru.tw/archive/tutorial/using-vuforia-with-unity3d-making-ar-app-tutorial
-
-2. Unity Text Mesh Pro Show Chinese Guide:
-https://cindyalex.pixnet.net/blog/post/238930883-unity-textmeshpro-%E4%B8%AD%E6%96%87%E5%AD%97%E9%AB%94
-
 =======================================================================================================================================================================
 
 AR lesson 1：
@@ -30,10 +26,10 @@ https://home.gamer.com.tw/creationDetail.php?sn=1564900
 
 延申思考：
 
-Free Guy: 
-https://www.youtube.com/watch?v=JORN2hkXLyM
+Free Guy 0:18-0:45):
+https://youtu.be/JORN2hkXLyM?t=18
 
-Ready Player One: 
+Ready Player One ():
 https://www.youtube.com/watch?v=jjO9DF57_vE
 
 AR
