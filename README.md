@@ -32,16 +32,11 @@ https://youtu.be/JORN2hkXLyM?t=18
 Ready Player One (0:00 - 0:50):
 https://www.youtube.com/watch?v=jjO9DF57_vE
 
-AR
-https://www.youtube.com/watch?v=D-A1l4Jn6EY
-
-Real Life Experience: https://youtube.com/shorts/807I3M4ESyA?feature=share
-
 VR Experience: https://www.youtube.com/watch?v=5Qd3EbKYrIw
 
 VR Fail: https://www.youtube.com/watch?v=7ubckVGybE4
 
-MR
+MR - a real life show in TaiWan
 https://www.youtube.com/watch?v=ryceakFbNXU
 
 SR
