@@ -26,10 +26,10 @@ https://home.gamer.com.tw/creationDetail.php?sn=1564900
 
 延申思考：
 
-Free Guy 0:18-0:45):
+Free Guy 0:18 - 0:45):
 https://youtu.be/JORN2hkXLyM?t=18
 
-Ready Player One ():
+Ready Player One (0:00 - 0:50):
 https://www.youtube.com/watch?v=jjO9DF57_vE
 
 AR
