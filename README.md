@@ -26,36 +26,33 @@ https://home.gamer.com.tw/creationDetail.php?sn=1564900
 
 延申思考：
 
-Free Guy (0:18 - 0:45):
-https://youtu.be/JORN2hkXLyM?t=18
+Free Guy
+https://youtu.be/uHwdLBxz7E4?t=40
 
-Ready Player One (0:00 - 0:50):
-https://www.youtube.com/watch?v=jjO9DF57_vE
+Ready Player One:
+https://youtu.be/3DFzWmBVNbU?t=22
 
-VR Experience: 
+MR - Iron Man (0:02-0:20)
+https://youtu.be/rt1dBr2Jz78?t=2
+
+MR - Hololens
+https://youtu.be/5ayOuUl5aMc
+
+VR Experience (Plank game VR): 
 https://www.youtube.com/watch?v=5Qd3EbKYrIw
 
-VR Fail: 
+https://youtu.be/sgvZC337_2Q
+
+VR Fail (Dangerous): 
 https://www.youtube.com/watch?v=7ubckVGybE4
 
-Before HoloLens - Magic Leap:
-https://www.youtube.com/watch?v=FGNlYukcsEY
-
-MR - a real life show in TaiWan
-https://youtu.be/ryceakFbNXU?t=157
-
-SR:
-https://www.tttechrec.com/blogs/2020/9/15/just-like-the-simulations-substitution-reality
-
-Mario Kart (up to 1:44)
-https://www.youtube.com/watch?v=eHuVJSSeJWk&list=PLz4XOfq-Xs2ci1j8m7r7UgIm9VuNdKu4o&index=141&ab_channel=%E7%8F%BE%E5%9C%A8%E5%AE%85%E7%9F%A5%E9%81%93
-
+AR with card game
+https://youtu.be/lWJSEsDznnc
 
 =======================================================================================================================================================================
 
 Snowman Package
 
-shorturl.at/bhnp8
 
 Techbob Image
 
