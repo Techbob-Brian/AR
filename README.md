@@ -44,7 +44,7 @@ https://www.youtube.com/watch?v=5Qd3EbKYrIw
 https://youtu.be/sgvZC337_2Q
 
 VR Fail (Dangerous): 
-https://www.youtube.com/watch?v=7ubckVGybE4
+https://www.dailymotion.com/video/x71ksbs
 
 AR with card game
 https://youtu.be/lWJSEsDznnc
